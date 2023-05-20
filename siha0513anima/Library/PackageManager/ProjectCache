@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638195510290519022
-    m_Hash: 2891438559
+      ticks: 638201560756820328
+    m_Hash: 2584840489
   m_LockFileStatus:
     m_FilePath: C:/Users/Administrator/Desktop/unity0513/siha0513anima/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638195510615161146
-    m_Hash: 2324796788
+      ticks: 638201560756820328
+    m_Hash: 3666746827
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -3308,10 +3308,12 @@ m_ResolvedPackages:
     - 3.0.2
     - 3.1.0
     - 3.2.0
+    - 3.2.1
     compatible:
     - 3.0.2
     - 3.1.0
     - 3.2.0
+    - 3.2.1
     verified: 3.0.2
   dependencies: []
   resolvedDependencies: []
